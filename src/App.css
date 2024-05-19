@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+
+.Cloths{
+  background-color: #282c34;
+  color:aliceblue;
+}
+
+
+.button-edit{
+  background-color: #61dafb;
+  color:#282c34;
+  border:1px solid transparent;
+  margin-right: 12px;
+}
+.button-delete{
+  background-color: brown;
+  color:aqua;
+  border: 1px solid transparent;
+}
+.smaller-screens-buttons{
+  display: none;
+}
+
+@media (max-width:767px){
+  .button-edit{
+    background-color: transparent;
+    border:0px;
+    margin-right:0px;
+    color:rgb(50, 63, 10);
+  }
+  .button-delete{
+    background-color: transparent;
+    border:0px;
+    color:#282c34;
+  }
+  .bigger-screens-buttons{
+    display: none;
+  }
+  .smaller-screens-buttons{
+    display: block;
+  }
+}

@@ -1,0 +1,32 @@
+.Cloths{
+    background-color: brown;
+
+}
+.bg-home{
+    padding-top:33px;
+}
+.bg-yellow{
+    background-color: burlywood;
+}
+.bg-red{
+    background-color: coral;
+    
+    
+}
+.bg-blue{
+    background-color:rgb(230, 0, 255);
+}
+.bg-green{
+    background-color: crimson;
+}
+
+.button-add{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-right: 14px;
+   
+}
+.Input{
+    margin-bottom:12px;
+}

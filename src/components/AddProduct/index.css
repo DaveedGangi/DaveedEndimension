@@ -1,0 +1,49 @@
+
+.bg-addProduct{
+    padding-top: 33px;
+}
+.add-product-bg{
+    padding: 33px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.form-bg{
+    width: 500px;
+    background-color:burlywood;
+    height:300px;
+    border-radius: 12px;
+    padding:22px;
+    color:coral;
+
+}
+.input{
+    margin-left: 74px;
+    width:300px;
+}
+
+.home-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    text-align: left;
+    padding-left: 33px;
+    background-color: black;
+    height: 66px;
+    align-items: center;
+}
+.bg-for-add-product{
+    background-image: url("https://img.freepik.com/free-photo/modern-podium-product-design-against-backdrop-tropical-forest_1268-31489.jpg?w=1380&t=st=1716101712~exp=1716102312~hmac=abd0a9a7b586e98894eda5af3a17e35705a318cf613739138748b1bb75c77ddc");
+    background-size: cover;
+    height: 100vh;
+
+}
+@media (max-width:767px){
+    .form-bg{
+        width: 300px;
+        height: 480px;
+    }
+}
