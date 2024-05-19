@@ -64,9 +64,11 @@ class Home extends Component{
    
 
       <div className="button-add">
+        <div>
         <Link to="/addProduct">
         <Button type="primary">Add a new product</Button>
         </Link>
+        </div>
       </div>
       
       <div className="table-bg">

@@ -1,3 +1,137 @@
+
+
+Note From User:
+
+
+I have created this app using reactjs
+
+I have used ant design Table, icons, Buttons ,Forms , Modal
+
+I implemented a Edit option for products
+
+onClicking on the Edit option user can see a product details 
+
+he can edit the details on modal popup 
+
+and it's same for the Delete the product 
+
+on clicking on Delete button , Modal Open's with product item name 
+
+on Clicking on the product , the product will deleted 
+
+also used Router for adding the new Product 
+
+on Clicking on the product  , he navigated to the add product page 
+
+there he add the all the field's only he can add the product to the product lists
+
+I implemented a Background Color Based on the category 
+
+I implemented a Pagination also by using Table from ant design 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

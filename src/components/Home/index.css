@@ -24,9 +24,29 @@
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
-    margin-right: 14px;
+    padding-right: 14px;
    
 }
 .Input{
     margin-bottom:12px;
+}
+
+@media (max-width:767px){
+    .button-add{
+        padding-right:12px;
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        align-items: center;
+        width: 100vw;
+     
+        box-sizing: border-box;
+    }
+    .table{
+        width:100vw;
+    }
+    Table{
+        width:100vw;
+    }
 }
